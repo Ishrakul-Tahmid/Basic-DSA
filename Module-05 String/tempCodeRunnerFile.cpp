@@ -1,0 +1,2 @@
+
+    cout<<"Word: "<<word<<endl;
