@@ -1,0 +1,12 @@
+1: when class nad object needed
+2: how class and object created
+3: constructor and srray sing work
+4: how dynamic object created
+5: array sort using sort() function
+
+*class define the general thing(byke parts)
+*object define the specific thing(what types)(byke parts design)
+*constructor is a special type of function
+which name same to class name;
+it has no return type
+it calls autometically
