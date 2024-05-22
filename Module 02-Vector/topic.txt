@@ -1,0 +1,13 @@
+1: Discuss about vector
+2: How vector initialize
+3: See vector constructor
+4: vector capacity and modifier related function
+5: How vector accessed and iterator worked
+6: How to take input using vector
+7: strings of vector
+
+*capacity increase 2's multifly
+
+** for insert space complexity is O(n+x)
+here n is previous value and x is new inserted value
+from there maximum one is the real complexity
