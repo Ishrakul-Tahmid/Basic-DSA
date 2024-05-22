@@ -1,0 +1,6 @@
+1. Learn about stl list
+2. Reverse Of Singly Linked list
+3. Reverse Of Doubly linked list
+4. Detectionn Of Cycle in singly linked list
+
+* list is doubly linked list library
