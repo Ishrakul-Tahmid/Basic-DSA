@@ -1,0 +1,15 @@
+1: About dynamic and static array
+2: How dynamic variable created
+3: how dynamic array created
+4: how array and function will return
+5: how dynamic array delete
+** static memory(limited memory)
+** dynamic memory(more memory)
+
+* static array size can't spread
+* dynamic array size can be spread.
+
+* static memory clear autometically
+* dynamic memory need to free manually
+
+*dynamin(heap) memory can increase size
