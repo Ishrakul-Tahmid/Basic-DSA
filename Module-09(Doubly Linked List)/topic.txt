@@ -1,0 +1,7 @@
+1. Discuss about Doubly Linked List
+2. How to insert element in Doubly Linked List
+3. How To delete element in doubly linked List
+4. Discuss about the complexity of array, singly and doubly linked List
+
+**unique function can only remove sorted duplicate value
+* for that at first we must sorted it
