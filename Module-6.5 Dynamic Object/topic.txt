@@ -1,0 +1,7 @@
+1: use of constructor
+2: how to sort string
+3: about range based for loop
+4: print word in reverse way
+5: works on class function and this keyword
+6: how to copy dyanmic object
+7: how to create namespace
