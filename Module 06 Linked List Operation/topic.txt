@@ -1,0 +1,5 @@
+1: Discuss about functions pointer references
+2: How node insert
+3: How Node delete
+4: How to error handle
+5: How to take input in linked list
