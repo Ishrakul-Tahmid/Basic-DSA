@@ -1,0 +1,26 @@
+1: Discuss about Tree and Binary Tree
+2: How Binary Tree is implemented
+3: Discuss different Trevarsal Order
+4: Pre Order, Post Order, In Order Trevarsal
+
+
+*Top Node is known as root Node
+*Every Node can have maximum two children
+*Node which have no children known as leaf.
+
+* Normal tree is known as N-ary tree(means Node can have any number of limited children)
+*Array, Linked List known as Linear data structure
+*Tree known as Non Linear data structure
+
+*In binary tree printing is done according to some Order
+***Order are two types
+i) Defth
+ii) Level
+*Defth is mainly divided into three types
+i) Pre Order
+ii) Post Order
+iii) In Order
+
+*Pre Order: Root->Left->Right
+*Post Order: Left->Right->Root
+*In Order: Left->Root->Right
