@@ -1,0 +1,26 @@
+1: Known about Stack and when and where it is used.
+2: Implementation of Stack using Dynamic Array
+3: Implementation of Stack using List
+4: Implementation of Stack using Doubly Linked List
+5: Known about STL Stack library.
+
+*** Stack operation actually LIFO(Last In Forst Out)
+Real Life application of stack:
+When we enter a website ex: google
+Then by google we enter a website like phitron; 
+in this case phitron pust at the top. 
+If we click back button then phitron is poped from the top of the staack.
+
+**Stack is known as ADT(Abstract Data Structure or higher lavel).
+*Array, Linked List is Lower Lavel Data Level Data Structure.
+*Stack is not a new data structure; 
+rather it is based on other data structure like or and linked List
+
+
+*Here we do not use satatic array, cz, after deleting tail it's memory do not removed
+Singly linked list do not use, cz, it's complexity O(N)
+So, we use doubly linked list(actually we use list which works like doubly linked list)
+
+*Here we implement push, pop, top, empty and size operation 
+*** List is a build in library of doubly linked list
+**Stack has it's own library which works internally like doubly linked list
