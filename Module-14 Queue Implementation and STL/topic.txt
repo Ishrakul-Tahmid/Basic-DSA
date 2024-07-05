@@ -1,0 +1,16 @@
+1: Know about queue and application of queue.
+2: Implement queue by Singly Linked List
+3: Implement queue with List
+4: Implement queue by doubly linked List
+5: See STL queue library
+6: Solve some stack and queue related question.
+
+
+***Queue internally  works in FIFO(First In First Out).
+*For deleting fitsr element int the array element the complexity is O(N)
+But, singly and doubly need O(1).
+That's why we do not use array in queue.
+
+*Array is not good for queue.
+Cz, it creates a circular queue which creates bad complexity.
+Cz, after deleting head frond will go forward and new value added in the head posotion.
