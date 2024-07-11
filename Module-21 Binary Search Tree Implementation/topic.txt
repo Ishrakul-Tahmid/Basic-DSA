@@ -1,0 +1,10 @@
+1: Know about binary search tree data structure
+2: How binary search tree is created
+3: why can't keep duplicate value in binary search tree
+4: How duplicate value should handle
+5: How value can search from BST
+6: How node is inserted in BST
+7: How BST can created from array
+
+**21-2 How to Handle Duplicate in BST
+-> To handle this we use frequency array to keep trac total number of duplicate value
