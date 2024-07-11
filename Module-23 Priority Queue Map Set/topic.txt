@@ -1,0 +1,14 @@
+1: What is priority queue and it's work
+2: Map
+3: How word is counted using Map
+4: What is set and how it works
+
+**If after inserting every avlue we need sorted value
+then we use priority queue
+
+//map is a queue value pair
+key can be anytype
+
+**behind the scene set is a BST
+here do not have duplicate value
+*in search it works in (logN)
