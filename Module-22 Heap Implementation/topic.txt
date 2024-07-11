@@ -1,0 +1,13 @@
+1: Complete binary tree
+2: Array representation of Complete Binary tree
+3: What is heap
+4: How value is inserted in heap
+5: How value can be deleted from heap
+
+***Complete binary tree
+-> Before last level every level must be fullfil witg node
+and in last level msut fill from left to right
+
+In heap after interting one element the full array becomes sorted.
+if we do it without using heap the complesity will be (N^2logN)
+But, if we wue heap the complexity will be only (logN)
